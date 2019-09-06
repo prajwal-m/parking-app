@@ -1,0 +1,25 @@
+{
+  "name": "parkassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajwal-m/parkAssignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prajwal-m/parkAssignment/issues"
+  },
+  "homepage": "https://github.com/prajwal-m/parkAssignment#readme",
+  "devDependencies": {
+    "webpack-cli": "^3.3.8"
+  },
+  "dependencies": {
+    "webpack": "^4.39.3"
+  }
+}
